@@ -1,4 +1,4 @@
 as3-libs
 ========
 
-photo fullscreenResize
+fullscreenResize.as   -----  使图片填充满整个屏幕
