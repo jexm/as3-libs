@@ -1,0 +1,5 @@
+<supportedProfiles>desktop extendedDesktop</supportedProfiles>
+<supportedProfiles>mobileDevice extendedMobileDevice</supportedProfiles>
+var file:File = File.deskopDirectory; 
+file = file.resolvePath("test.doc"); 
+file.openWithDefaultApplication();
