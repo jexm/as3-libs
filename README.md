@@ -1,3 +1,15 @@
+flash builder air sdk:
+Windows 7(32位):
+C:Program Files (x86)AdobeAdobe Flash Builder 4.7eclipsepluginscom.adobe.flash.compiler_4.7.0.349722
+Windows 7(64位):
+C:Program FilesAdobeAdobe Flash Builder 4.7 (64 Bit)eclipsepluginscom.adobe.flash.compiler_4.7.0.349722
+Mac OS:
+/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722
+Linux：
+null（这个我是骗你的，AIR的Linux版被Adobe谋杀了）
+
+
+
 as3-libs
 ========
 
